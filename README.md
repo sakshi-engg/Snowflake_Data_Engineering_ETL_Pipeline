@@ -33,7 +33,7 @@ Integrate and reconcile data from multiple sources
 ## 📦 Getting Started
 Clone the Repo
 
-``` bash
+ bash
 git clone https://github.com/sakshi-engg/Snowflake_Data_Engineering_ETL_Pipeline.git
 cd Snowflake_Data_Engineering_ETL_Pipeline ```
 
