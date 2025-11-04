@@ -31,19 +31,20 @@ Use MERGE statements for upserts and complex transformations
 Integrate and reconcile data from multiple sources
 
 ## 📦 Getting Started
-1. **Clone the Repository**:
- ```sh
-   git clone https://github.com/sakshi-engg/Snowflake_Data_Engineering_ETL_Pipeline.git
-   cd Snowflake_Data_Engineering_ETL_Pipeline ```
+# Clone the Repository:
+Use the following commands to clone the project and navigate into the directory:
 
-2.**Configure Your Snowflake Environment**
+- git clone https://github.com/sakshi-engg/Snowflake_Data_Engineering_ETL_Pipeline.git
 
-Follow setup instructions in the Documentation folder
-Load sample datasets into your Snowflake instance
+- cd Snowflake_Data_Engineering_ETL_Pipeline
 
-3. **Execute SQL Scripts**
+## Configure Your Snowflake Environment
 
-Navigate to the SQL Scripts folder
-Run the scripts to build and test your ETL pipeline
-Explore the Results
-Analyze structured outputs
+- Refer to the setup guide in the Documentation folder
+- Load the provided sample datasets into your Snowflake instance
+
+## Execute SQL Scripts
+
+- Open the SQL Scripts folder
+- Run the SQL files to initialize and test your ETL pipeline
+- Review the structured outputs and explore the results for further analysis
